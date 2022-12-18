@@ -1,0 +1,7 @@
+[user]
+	name = Leander Steiner
+	email = leandersteiner@yahoo.de
+[core]
+	editor = vim
+[init]
+	defaultbranch = main
